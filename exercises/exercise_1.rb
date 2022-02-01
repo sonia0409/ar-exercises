@@ -26,4 +26,4 @@ store3 = Store.create(
 )
 
 
-puts "Total store count: #{Stores.count}"  #return the total count of all people
+puts "Total store count: #{Store.count}"  #return the total count of all people
